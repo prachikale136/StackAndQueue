@@ -15,6 +15,8 @@ namespace DataStructure
             stackLinkedList.Push(56);
             stackLinkedList.Push(30);
             stackLinkedList.Push(70);
+            stackLinkedList.Peek();
+            stackLinkedList.Pop();
             stackLinkedList.Display();
         }
     }
